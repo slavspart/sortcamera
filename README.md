@@ -24,7 +24,6 @@ This Python module is designed to facilitate the renaming jpg files based on the
     Running initialization script
     ```
    ./commands.sh
-   python3 sort_meta.py
     ```
     Running the script
     ```
